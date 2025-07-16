@@ -1,0 +1,14 @@
+# Python virtualenv
+venv/
+env/
+.myenv/
+myenv/
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+
+# FAISS index / data
+index/
+data/
