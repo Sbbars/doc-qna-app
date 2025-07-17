@@ -39,7 +39,7 @@ myenv\Scripts\activate
 
 pip install -r requirements.txt
 
-###🚀 Run Guide
+### 🚀 Run Guide
 
 streamlit run app.py
 (This will open a browser window at http://localhost:8501.)
